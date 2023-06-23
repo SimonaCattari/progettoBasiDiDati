@@ -1,0 +1,564 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(246, 235, 252, 0.479);
+}
+
+#img-post{
+  max-width: 280px;
+  max-height: 280px;
+}
+
+#post-mod{
+  margin-top: 273px;
+    margin-bottom: -190px;
+}
+
+#b {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+
+}
+
+#c{
+  border: 2px solid black;
+}
+
+#pro-ute {
+  width: 300px;
+  height: auto;
+  margin-top: 20%;
+  margin-left: 24%;
+  margin-bottom: -39%;
+}
+
+.center {
+  position: relative;
+  padding: 50px 50px 70px;
+  background: #fff;
+  border-radius: 10px;
+  margin-top: 8%;
+  margin-bottom: 2%;
+  box-shadow: 0px 0px 20px 0.3px;
+}
+
+
+#center1 {
+  position: relative;
+  padding: 50px 50px 30px;
+  background: #fff;
+  border-radius: 10px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  box-shadow: 0px 0px 20px 0.3px;
+}
+
+.profilo2 {
+  position: relative;
+  width: 800px;
+  height: 350px;
+  background: lightyellow;
+  margin-top: 36%;
+  text-align: center;
+
+}
+#coaut{
+  margin-left: 1080px;
+  margin-top: -40px;
+}
+
+#coaut button{
+  margin-left: 35px;
+  padding: 0%;
+  font-size: 14px;
+  width: 135px;
+  background: beige;
+  border-radius: 9px;
+  margin-top: 0.7%;
+}
+
+#crea {
+  background: white;
+  width: 600px;
+  height: 696px;
+  margin-left: 12.5%;
+  margin-top: -14.5%;
+}
+
+.center .inputbox {
+  position: relative;
+  width: 300px;
+  height: 50px;
+  margin-bottom: 40px;
+  margin-right: 20px;
+}
+
+.center .inputbox input {
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: 1px solid #dadde1;
+  outline: none;
+  background: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 1.2em;
+}
+
+.blog .inputbox {
+  position: relative;
+  width: 300px;
+  height: 50px;
+  margin-bottom: 40px;
+  margin-right: 20px;
+}
+
+.blog .inputbox input {
+  top: 0;
+  left: 0;
+  margin: 30px 1px 0px 23px;
+  width: 177%;
+  border: 1px solid #dadde1;
+  outline: none;
+  background: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 1.2em;
+}
+
+#post-text {
+  top: 0;
+  left: 0;
+  margin: 30px 1px 0px 23px;
+  width: 176%;
+  border: 1px solid #dadde1;
+  background: none;
+  padding: 12px 12px 200px 12px;
+  border-radius: 10px;
+  font-size: 1.2em;
+  overflow-y: hidden;
+  resize: none;
+  font-family: inherit;
+  ;
+}
+
+#blog_color {
+  width: 45%;
+  height: 200%;
+  margin-left: 147%;
+  margin-top: -19%;
+}
+
+#colore {
+  font-size: 24px;
+  margin-left: 10%;
+  margin-top: 29%;
+}
+
+
+#file-input-blog {
+  margin-top: 3%;
+  padding-bottom: 3px;
+  color: transparent;
+}
+
+
+
+#immagine {
+  font-size: 23px;
+  margin-left: 9%;
+  margin-top: -164%;
+  width: max-content;
+}
+
+
+#file-input {
+  margin-top: 70%;
+}
+
+
+#a1 {
+  margin-left: 15%;
+  color: black;
+}
+
+p {
+  margin-bottom: 1%;
+}
+
+#scritta {
+  font-family: 'Pacifico';
+  font-size: 250px;
+  margin-right: 5%;
+  margin-left: 2%;
+}
+
+.center .inputbox [type="submit"] {
+  width: 107%;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  margin-top: 10%;
+}
+
+.blog .inputbox [type="submit"] {
+  width: 107%;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  margin-top: 86%;
+  margin-left: 45%;
+}
+
+#posta-blog {
+  width: 107%;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  margin-top: 6%;
+  margin-left: 45%;
+}
+
+
+.menu .inputbox [type="button"] {
+  width: 135px;
+  height: 34px;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  border-radius: 9px;
+  position: absolute;
+  margin-left: 90%;
+  margin-top: -2.3%;
+}
+
+#btn-new-blog {
+  width: 135px;
+  height: 34px;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  border-radius: 9px;
+  position: absolute;
+  margin-left: 90%;
+  margin-top: 0.7%;
+  text-decoration: none;
+}
+
+#btn-accedi {
+  width: 135px;
+  height: 34px;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  border-radius: 9px;
+  position: absolute;
+  margin-left: 90%;
+  margin-top: -2.5%;
+  text-decoration: none;
+}
+#sfondo{
+  width: 200px;
+  margin-left: 32%;
+}
+.center .log {
+  height: 42px;
+  border: #fff;
+  border-radius: 9px;
+  margin-top: 5%;
+  width: 100%;
+  text-align: center;
+  background: mediumaquamarine;
+  color: white
+}
+
+#titolo{
+  color: violet;
+
+}
+
+.line {
+  align-items: center;
+  border-bottom: 1px solid #dadde1;
+  display: flex;
+  margin: 20px 16px;
+  text-align: center;
+}
+
+.request {
+  color: #1877f2;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.menu {
+  height: 3em;
+  width: 100%;
+  background: rgba(246, 235, 252, 0.479);
+  top: 0;
+  position: absolute;
+  border-bottom: 1px solid #dadde1;
+
+}
+
+#logo {
+  font-family: 'Pacifico';
+  margin-right: 5%;
+  font-size: 30px;
+  margin-left: 8%;
+  text-decoration: none;
+
+}
+
+#logo1 {
+  font-family: 'Pacifico';
+  margin-right: 5%;
+  font-size: 30px;
+  margin-left: 40%;
+
+
+}
+
+
+
+#live_search{
+  text-align: center;
+  border-radius: 30px;
+  border: 1px solid #dadde1;
+  font-size: 1.2em;
+  width: 400px;
+  height: 1.5em;
+  top: 0.5em;
+  position: absolute;
+  left: 37.5%;
+}
+
+.blog1 {
+
+  border: none;
+  width: 800px;
+  height: 750px;
+  margin-top: 13%;
+  position: absolute;
+  overflow: visible;
+
+}
+
+.blog {
+  border: none;
+  width: 800px;
+  height: 750px;
+  margin-top: 25%;
+  position: absolute;
+  overflow: visible;
+}
+
+#index{
+  margin-top: 150px;
+  margin-left:195px;
+}
+
+.blog .post {
+
+  max-width: 600px;
+  height: auto;
+  margin-left: -13%;
+  margin-top: 10%;
+  overflow-wrap: break-word;
+  padding: 2%;
+  border: 1px solid indianred;
+
+}
+
+#blog {
+
+  max-width: 600px;
+  height: auto;
+  margin-top: 10%;
+  overflow-wrap: break-word;
+  background: indianred;
+
+}
+
+#blog1 {
+
+  max-width: 600px;
+  height: auto;
+  margin-left: 10%;
+  margin-top: 10%;
+  overflow-wrap: break-word;
+  background: indianred;
+
+}
+
+#profilo1 {
+  background: grey;
+  width: 47px;
+  height: 40px;
+  border-radius: 70%;
+  position: absolute;
+  overflow-wrap: break-word;
+  top: 6px;
+  left: 20px;
+}
+
+.elenco {
+  width: 300px;
+  height: 800px;
+  /* overflow-wrap: break-word; */
+  margin-top: 7%;
+  margin-right: -20%;
+  background: khaki;
+}
+
+.elenco2 {
+  width: 300px;
+  height: 800px;
+  margin-top: 7%;
+  margin-left: 78%;
+  position: inherit;
+  background: khaki;
+}
+
+.reaction {
+  width: 300px;
+  height: 40px;
+  margin-top: -20%;
+  margin-left: -104px;
+}
+
+.reazione1 {
+  width: 150px;
+  height: 40px;
+  margin-top: 20%;
+  background: chartreuse;
+}
+
+.reazione2 {
+  width: 150px;
+  margin-left: 150px;
+  height: 40px;
+  margin-top: -13.4%;
+  background: chartreuse;
+}
+
+.elenco3 {
+  width: 300px;
+  height: 375px;
+  margin-top: 7%;
+  margin-right: 70%;
+  background: khaki;
+}
+
+.profilo {
+  width: 800px;
+  height: 350px;
+  background: lightyellow;
+}
+
+.imgprofilo {
+  width: 50px;
+  height: 50px;
+  border-radius: 1%;
+}
+
+#profilo {
+  background: grey;
+  width: 200px;
+  height: 200px;
+  border-radius: 70%;
+  position: absolute;
+  top: 50px;
+  left: 295px;
+}
+
+
+
+
+
+#commenti {
+  width: 450px;
+  height: 200px;
+  background: slateblue;
+  position: relative;
+  margin-left: 621px;
+  margin-top: -54px;
+  overflow: auto;
+  overflow-x: hidden;
+  margin-bottom: -3%;
+}
+
+.commentobox {
+  position: relative;
+  width: 250px;
+  height: 50px;
+  margin-bottom: -49px;
+  margin-right: 20px;
+
+
+}
+
+.commentobox input {
+  width: 590px;
+  border: 1px solid #dadde1;
+  outline: none;
+  background: none;
+  padding: 5px;
+  background: #dadde1;
+  border-radius: 10px;
+  font-size: 1.2em;
+  margin-top: 60px;
+  margin-top: -6px;
+  margin-left: -42%;
+}
+
+#commenta {
+  width: 32%;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  height: 90%;
+  margin-top: 0%;
+  margin-left: 57%;
+}
+
+#ope {
+  width: 25px;
+
+}
+
+#ope1 {
+  width: 25px;
+}
+
+
+.btn {
+  background: aqua;
+  margin-top: 50px;
+  width: 300px;
+}
+
+#profilo_blog {
+  display: block;
+}
+
+#profilo_post {
+  display: none;
+}
+
+#coautore_post {
+  display: none;
+}
+
+#coautore_blog {
+  display: none;
+}
